@@ -1,0 +1,14 @@
+0011 0001 0000 0000 ; x3100 - the location of the array of 10 numbers
+0011 0001 0000 0000 ; x3100 - the location of the array of 10 numbers
+0000 0000 0000 0001 ; x3100 - 1 is the first number
+1111 1111 1111 1110 ; x3101 - -2 is the second number
+0000 0000 0000 0011 ; x3102 - 3 is the third number
+1111 1111 1111 1100 ; x3103 - -4 is the fourth number
+0000 0000 0000 0101 ; x3104 - 5 is the fifth number
+1111 1111 1111 1010 ; x3105 - -6 is the sixth number
+0000 0000 0000 0111 ; x3106 - 7 is the seventh number
+1111 1111 1111 1000 ; x3107 - -8 is the eight number
+0000 0000 0000 1001 ; x3108 - 9 is the ninth number
+1111 1111 1111 0110 ; x3109 - -10 is the tenth number
+
+

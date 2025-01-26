@@ -1,0 +1,17 @@
+0011 0010 0000 0000 ; x3200 - the location of the array of unknown # numbers
+0000 0000 0000 0001 ; x3200 - 1 is the first number
+1111 1111 1111 1110 ; x3201 - -2 is the second number
+0000 0000 0000 0011 ; x3202 - 3 is the third number
+1111 1111 1111 1100 ; x3203 - -4 is the fourth number
+0000 0000 0000 0101 ; x3204 - 5 is the fifth number
+1111 1111 1111 1010 ; x3205 - -6 is the sixth number
+0000 0000 0000 0111 ; x3206 - 7 is the seventh number
+1111 1111 1111 1000 ; x3207 - -8 is the eight number
+0000 0000 0000 1001 ; x3208 - 9 is the ninth number
+1111 1111 1111 0110 ; x3209 - -10 is the tenth number
+0000 0000 0000 1011 ; x320A - 11 is the eleventh number
+1111 1111 1111 0100 ; x320B - -12 is the twelfth number
+1111 1111 1111 1111 ; x320C - -1 is the end condition
+
+
+
